@@ -1,0 +1,14 @@
+table{
+  width:50%;
+  border-collapse:collapse;
+}
+img{
+  width: 20px;
+  padding-right: 10px;
+  padding-top: 5px;
+}
+button{
+  background-color:  #002395;
+  color: white;
+  padding:8px
+}
